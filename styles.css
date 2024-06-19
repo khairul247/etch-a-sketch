@@ -16,7 +16,7 @@ body {
     width: 320px;
     height: 320px;
     flex-wrap: wrap;
-    border: 1px solid black;
+    border: 8px solid white;
 }
 
 button{
