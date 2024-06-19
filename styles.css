@@ -1,0 +1,28 @@
+body {
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #ced097;
+}
+
+#container{
+    background-color:#7a6263;
+    display:flex;
+    width: 320px;
+    height: 320px;
+    flex-wrap: wrap;
+    padding: 8px;
+}
+
+button{
+    margin-bottom: 32px;
+}
+.box{
+    background-color: #dff2D8;
+    display:flex;
+    width:20px;
+    height: 20px;
+  
+}
