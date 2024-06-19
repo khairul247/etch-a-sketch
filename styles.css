@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
 body {
     display:flex;
     flex-direction: column;
@@ -8,7 +11,7 @@ body {
 }
 
 #container{
-    background-color:#7a6263;
+    background-color:white;
     display:flex;
     width: 320px;
     height: 320px;
@@ -18,11 +21,10 @@ body {
 
 button{
     margin-bottom: 32px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 32px;
 }
 .box{
-    background-color: #dff2D8;
+    background-color: white;
     display:flex;
-    width:20px;
-    height: 20px;
-  
 }
