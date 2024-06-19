@@ -16,7 +16,7 @@ body {
     width: 320px;
     height: 320px;
     flex-wrap: wrap;
-    padding: 8px;
+    border: 1px solid black;
 }
 
 button{
