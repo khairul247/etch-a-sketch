@@ -23,7 +23,7 @@ function createGrid(input){
         box.style.cssText = `width: ${(1 / input) * 100}%; height: ${(1 / input) * 100}%;`;
         container.appendChild(box);
 
-        let interactions = 1;
+        let interactions = 0;
 
         box.addEventListener("mouseover", (event) => {
         interactions++;
